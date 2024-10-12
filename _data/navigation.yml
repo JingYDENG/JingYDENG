@@ -9,12 +9,14 @@ main:
     url: /publications/
 
   - title: "Teaching"
-    url: /teaching/    
-    
+    url: /teaching/
+  
+  - title: "CV"
+    url: /cv/
         
   - title: "Resource"
     url: /resource/
     
-  - title: "CV"
-    url: /cv/
+  - title: "About"
+    url: /about/
     
