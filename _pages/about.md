@@ -7,5 +7,5 @@ redirect_from:
   - /about.html
 ---
 
-This is the personal website of Jingyuan. Under construction
+This is the personal website of Jingyuan. Under construction.
 
